@@ -412,3 +412,22 @@ textarea{
 .register-group textarea {
   height: 78px;
 }
+tj,
+td{
+  padding-bottom:22px;
+  vertical-align:top;
+}
+th{
+  padding-right:45px;
+  text-align:right;
+  width:20%;
+}
+
+
+thead {
+  line-height: 44px;
+}
+thead th {
+  color: #648880;
+  font-size: 24px;
+}
